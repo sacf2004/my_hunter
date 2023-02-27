@@ -1,0 +1,16 @@
+MY HUNTER
+
+History:
+
+My Hunter is a game created by nintendo, in fact it was one of their first 
+games. It was made by Andres Sebastian Sanchez Cortez, in 1984. 
+
+What it is about:
+
+The hunter is a game about hunting as many ducks as you can. 
+
+Actions:
+
+- If the duck disappears nothing happens it will reappear soon after.
+- To hunt a duck you must click with the mouse.
+- You can close the tab by clicking the close button.
